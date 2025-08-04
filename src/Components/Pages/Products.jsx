@@ -39,7 +39,7 @@ const products = [
     qty: 1,
     maxQty: 12,
     totalPrice: 2200,
-    img: "https://images.pexels.com/photos/12125553/pexels-photo-12125553.jpeg"
+    img: "https://www.laraibnow.com/images/product_gallery/1668256359_Capture.PNG"
     // hub displayed with USB‑C cables in close focus
   },
   {
@@ -49,7 +49,7 @@ const products = [
     qty: 1,
     maxQty: 6,
     totalPrice: 11000,
-    img: "https://images.pexels.com/photos/16010745/pexels-photo-16010745.jpeg"
+    img: "https://shop.sandisk.com/content/dam/store/en-us/assets/products/portable/extreme-pro-usb-3-1-ssd/gallery/extreme-pro-usb-3-1-ssd-front.png.thumb.1280.1280.png"
     // SSD hardware image in tech setting
   },
   {
@@ -59,7 +59,7 @@ const products = [
     qty: 1,
     maxQty: 15,
     totalPrice: 2700,
-    img: "https://images.pexels.com/photos/5029848/pexels-photo-5029848.jpeg"
+    img: "https://alaqsa.com.pk/wp-content/uploads/2022/08/1_1f4f6e7d-d4c6-4330-94d5-033840cc898f_700x700.webp"
     // ergonomic laptop stand on desk
   },
   {
@@ -69,7 +69,7 @@ const products = [
     qty: 1,
     maxQty: 10,
     totalPrice: 3500,
-    img: "https://images.pexels.com/photos/3394663/pexels-photo-3394663.jpeg"
+    img: "https://www.eshopnow.pk/cdn/shop/products/Lenovo-HE05-Neckband-Bluetooth-Headset-img1.jpg?v=1691707057&width=1000"
     // headphone gear on table
   },
   {
@@ -79,7 +79,7 @@ const products = [
     qty: 1,
     maxQty: 3,
     totalPrice: 25000,
-    img: "https://images.pexels.com/photos/13871156/pexels-photo-13871156.jpeg"
+    img: "https://workspace.com.pk/wp-content/uploads/2023/03/gaming-chair-post-07-700x700-1.jpg"
     // ergonomic white gaming chair close-up :contentReference[oaicite:8]{index=8}
   },
   {
@@ -89,7 +89,7 @@ const products = [
     qty: 1,
     maxQty: 25,
     totalPrice: 900,
-    img: "https://images.pexels.com/photos/16591950/pexels-photo-16591950.jpeg"
+    img: "https://img.drz.lazcdn.com/static/pk/p/2000d598ff95b29139a0a28ccb429b2d.jpg_720x720q80.jpg"
     // phone on a stand in workspace
   },
   {
@@ -99,7 +99,7 @@ const products = [
     qty: 1,
     maxQty: 9,
     totalPrice: 3200,
-    img: "https://images.pexels.com/photos/8115874/pexels-photo-8115874.jpeg"
+    img: "https://a4tech.com.pk/cdn/shop/files/PK980HA_3.png?v=1730532391"
     // webcam mounted on monitor close-up
   },
   {
@@ -109,7 +109,7 @@ const products = [
     qty: 1,
     maxQty: 14,
     totalPrice: 2800,
-    img: "https://images.pexels.com/photos/3394661/pexels-photo-3394661.jpeg"
+    img: "https://flyingcart.pk/cdn/shop/files/tronsmart-t7-mini-portable-bluetooth-speaker.jpg?v=1713524990"
     // small speaker on desk
   },
   {
@@ -119,7 +119,7 @@ const products = [
     qty: 1,
     maxQty: 20,
     totalPrice: 1600,
-    img: "https://images.pexels.com/photos/4042801/pexels-photo-4042801.jpeg"
+    img: "https://winshop.pk/cdn/shop/files/Portable-LED-Desk-Lamp.jpg?v=1735381099"
     // desk lamp illuminating workspace
   },
   {
@@ -129,7 +129,7 @@ const products = [
     qty: 1,
     maxQty: 11,
     totalPrice: 2100,
-    img: "https://images.pexels.com/photos/4042802/pexels-photo-4042802.jpeg"
+    img: "https://corporategifts.pk/cdn/shop/files/OFA005CG-b-min.jpg?v=1725624069&width=1445"
     // wireless phone charger pad
   },
   {
@@ -139,7 +139,7 @@ const products = [
     qty: 1,
     maxQty: 4,
     totalPrice: 9000,
-    img: "https://images.pexels.com/photos/7160400/pexels-photo-7160400.jpeg"
+    img: "https://cdn.mos.cms.futurecdn.net/mdMF9qXEukPWGBABhtdon4.jpg"
     // tablet stylus and drawing pad
   },
   {
@@ -149,7 +149,7 @@ const products = [
     qty: 1,
     maxQty: 18,
     totalPrice: 1800,
-    img: "https://images.pexels.com/photos/1652200/pexels-photo-1652200.jpeg"
+    img: "https://harshaystore.pk/cdn/shop/files/Mochila-informal-ligera-para-hombre-y-mujer-bolsa-para-ordenador-port-til-de-14-pulgadas-15_900x.webp?v=1708528860"
     // laptop bag on a simple surface
   }
 ];
